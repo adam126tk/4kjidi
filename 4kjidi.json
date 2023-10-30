@@ -82,12 +82,7 @@
     },
     
    
-    {
-      "key":"drpy_js_两个BT",
-      "name":"BT高清|4K基地",
-      "type":3,"api":"./lib/drpy2.min.js",
-      "ext":"http://106.52.241.21:81/JS/js/两个BT.js"
-    },
+    
    //  {
       //      "key": "Xinsj",
       //      "name": "视觉直连|4K基地",
