@@ -58,19 +58,10 @@
 			"ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
 			"jar": "./jar/xry.jar"
     },
-     {
-      "key": "csp_CandyMuj_sstv",
-      "name": "4K资源3|4K基地",
-      "type": 3,
-      "api": "csp_CandyMuj_sstv",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-      //"jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;f7ba9054a2ecb212449dfe3342c42f10"
-    },
+     
      {
       "key": "Mino",
-      "name": "4K资源4|4K基地",
+      "name": "4K资源3|4K基地",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
