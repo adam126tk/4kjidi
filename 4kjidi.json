@@ -65,8 +65,8 @@
       "api": "csp_CandyMuj_sstv",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;f7ba9054a2ecb212449dfe3342c42f10"
+      "filterable": 1
+      //"jar": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;f7ba9054a2ecb212449dfe3342c42f10"
     },
      {
       "key": "Mino",
