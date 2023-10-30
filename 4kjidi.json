@@ -1,6 +1,7 @@
 {
   "spider": "http://app.4kjidi.com/jiekou/fan1019.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "warningText":"欢迎使用4K基地！"
   "lives": [
     {
       "name": "live",
