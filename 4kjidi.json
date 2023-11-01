@@ -82,7 +82,25 @@
       "ext": "http://103.197.25.136:3836/api.php/app/"
     },
     
-   
+    {
+      "key": "csp_DouDou",
+      "name": "急速资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://json.vip999.fun:4567/api.php/app/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "XAL资源",
+        "json.鑫.cc"
+      ]
+    },
     
    //  {
       //      "key": "Xinsj",
