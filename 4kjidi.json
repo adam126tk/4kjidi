@@ -101,7 +101,18 @@
         "json.鑫.cc"
       ]
     },
-    
+    {
+"key": "csp_CandyMuj_hjtv",
+"name": "韩剧专区|4K基地",
+"type": 3,
+"api": "csp_CandyMuj_hjtv",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+			"jar": "./jar/candy11.jar"
+
+},
+
    //  {
       //      "key": "Xinsj",
       //      "name": "视觉直连|4K基地",
