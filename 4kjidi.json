@@ -48,7 +48,8 @@
       "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1
+      "filterable":1,
+      "jar":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/jar/fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242"
       },
        {
 			"key": "yc",
