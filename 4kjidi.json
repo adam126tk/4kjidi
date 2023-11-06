@@ -42,7 +42,7 @@
   
    {
       "key":"t4_wo",
-      "name":"4K资源1|4K基地",
+      "name":"4K资源|4K基地",
       "type":4,
       //"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
       "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
@@ -51,18 +51,18 @@
       "filterable":1,
       "jar":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/jar/fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242"
       },
-       {
-			"key": "yc",
- 			"name": "4K资源2|4K基地",
-			"type": 3,
-			"playerType": 1,
-			"api": "csp_Hdhive",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-			"jar": "./jar/xry.jar"
-    },
+      // {
+		//	"key": "yc",
+ 		//	"name": "4K资源2|4K基地",
+		//	"type": 3,
+		//	"playerType": 1,
+		//	"api": "csp_Hdhive",
+		//	"searchable": 1,
+		//	"quickSearch": 1,
+		//	"filterable": 0,
+		//	"ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+		//	"jar": "./jar/xry.jar"
+    //},
      
     
     {
