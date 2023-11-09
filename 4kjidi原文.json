@@ -64,17 +64,7 @@
 		//	"jar": "./jar/xry.jar"
     //},
      
-    {
-      "key": "Czsapp",
-      "name": "厂长直连|4K基地",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy88.com/"
-    },
+  
     {
       "key":"drpy_js_两个BT",
       "name":"BT资源|4K基地",
