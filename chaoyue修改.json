@@ -91,15 +91,7 @@
 },
 
 { "key": "横版影院", "name": "❤️短剧一", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
-{
-            "key": "短剧1xyq1",
-            "name": "🧡短剧二",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/168079/%E8%A7%84%E5%88%99%E5%90%8D_%20_%E9%A6%99%E9%9B%85%E6%83%85%E6%A8%A1%E6%9D%BF_,.txt?sign=3aG9J_c2ZOrR0welihMao35c-9dpWB7h_vu5Rlc9Hbc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/168078/Yoursmile.zip?sign=R6qPnqaZO1r9RiyTlEuDIna2v13tH-Cu_J9FXAaKgU0%3D%3A0"},
+
    {
             "key": "csp_djtv",
             "name": "💚短剧三",
