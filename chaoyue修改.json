@@ -11,27 +11,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "Czsapp",
-      "name": "📔┃厂长┃2K",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;666ca7d5468412592cd65e5a22376dc6"
-    },
-     {
-           "key": "厂长",
-           "name": "1080P站-A-1",
-           "type": 3,
-           "api": "csp_XBPQ",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/cz.json"
-       },
+    
     {
       "key":"drpy_js_两个BT",
       "name":"1080P站-A",
@@ -69,7 +49,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "1080P站-F",
+      "name": "1080P站-E",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -91,7 +71,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "4KHDR站-H",
+      "name": "4KHDR站-B",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -100,92 +80,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
    
 },
-
-{
-      "key": "csp_XYQHiker_短剧网",
-      "name": "🌌短剧网",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/sft/Hk/XYQHiker/短剧网.json",
-      "jar": "http://itvbox.cc/sft/Hk/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
-    },
-
-
- {
-      "key": "XBPQ_葡萄",
-      "name": "🎦┃短剧┃葡萄",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "数组": "class=\"stui-vodlist__box&&</li",
-        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-      }
-    },
-    {
-      "key": "js_DJ5",
-      "name": "🎦┃短剧┃DJ5",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/短剧网.js"
-    },
-    {
-      "key": "csp_XYQHiker_VSYY",
-      "name": "🎦┃短剧┃VSY",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/VS影院.json"
-    },
-    {
-      "key": "csp_XBPQ_aoaotv",
-      "name": "🎦┃短剧┃嗷嗷",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-      }
-    },
-
-
-
-
-
-
-
-
-
-{"key":"相声小品","name":"相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Blixs.json"},
-{"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Blixq.json"},
-        {"key": "dr_兔小贝","name": "儿童早教","type": 3,"api": "http://frp.gerss.cn/e4a/app/js/lib/drpy2.min.js","ext": "http://frp.gerss.cn/e4a/app/js/js/兔小贝.js","searchable": 0,"quickSearch": 0,"changeable": 0},
-{"key":"少儿","name":"少儿课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"},
-{"key":"小学","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"},
-{"key":"初中","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
-{"key":"高中","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
-    {"key":"csp_Bili","name":"B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Bili.json"},
-    {
-      "key": "88看球",
-      "name": "⚽88看球",
-      "type": 3,
-      "api": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/lib/88kanqiu.js"
-    },
 {
 "key":"七夜",
 "name":"4KHDR站-备用1",
@@ -226,7 +120,31 @@
 "quickSearch":1,
 "changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-}
+},
+ {
+      "key": "PT",
+      "name": "💙短剧四",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "数组": "class=\"stui-vodlist__box&&</li",
+        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+      }
+    },
+      { "key": "横版影院", "name": "❤️短剧一
+    ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
+
+
+{"key":"相声小品","name":"相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Blixs.json"},
+{"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Blixq.json"},
+        {"key": "dr_兔小贝","name": "儿童早教","type": 3,"api": "http://frp.gerss.cn/e4a/app/js/lib/drpy2.min.js","ext": "http://frp.gerss.cn/e4a/app/js/js/兔小贝.js","searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key":"少儿","name":"少儿课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"},
+{"key":"小学","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"},
+{"key":"初中","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
+{"key":"高中","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
+    {"key":"csp_Bili","name":"B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Bili.json"}
+   
 
   ],
   
