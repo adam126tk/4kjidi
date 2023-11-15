@@ -126,7 +126,7 @@
       "name": "💙短剧四",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"./lib/dj0.jar",
+      //"jar":"./lib/dj0.jar",
       "ext": {
         "数组": "class=\"stui-vodlist__box&&</li",
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
