@@ -82,7 +82,7 @@
 },
 {
 "key":"七夜",
-"name":"4KHDR站-备用1",
+"name":"4KHDR站-C",
 "type":3,
 "api":"csp_Dovx",
 "searchable":1,
@@ -92,7 +92,7 @@
 },
 {
 "key": "csp_search_Alips",
-"name": "4KHDR站-备用2",
+"name": "4KHDR站-D",
 "type": 3,
 "api": "csp_PanSou",
 "searchable": 1,
@@ -103,7 +103,7 @@
 },
 {
 "key":"UpYun",
-"name":"4KHDR站-备用3",
+"name":"4KHDR站-E",
 "type":3,
 "api":"csp_UpYun",
 "searchable":1,
@@ -111,16 +111,7 @@
 "changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
 },
-{
-"key":"PanSearch",
-"name":"4KHDR站-备用4",
-"type":3,
-"api":"csp_PanSearch",
-"searchable":1,
-"quickSearch":1,
-"changeable":0,
-"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-},
+
  {
       "key": "PT",
       "name": "葡萄短剧",
