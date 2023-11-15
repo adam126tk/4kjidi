@@ -123,7 +123,7 @@
 },
  {
       "key": "PT",
-      "name": "💙短剧四",
+      "name": "葡萄短剧",
       "type": 3,
       "api": "csp_XBPQ",
       
@@ -136,7 +136,7 @@
       "jar":"./lib/dj0.jar"
      
     },
-      { "key": "横版影院", "name": "❤️短剧一
+      { "key": "横版影院", "name": "量子短剧
     ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ],
     "jar":"./lib/dj0.jar"
      }, 
