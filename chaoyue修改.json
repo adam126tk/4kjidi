@@ -101,16 +101,7 @@
 "playerType": 1,
 "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
 },
-{
-"key":"UpYun",
-"name":"4KHDR站-E",
-"type":3,
-"api":"csp_UpYun",
-"searchable":1,
-"quickSearch":1,
-"changeable":0,
-"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-},
+
 
  {
       "key": "PT",
@@ -140,7 +131,7 @@
 {"key":"小学","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"},
 {"key":"初中","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
 {"key":"高中","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
-    {"key":"csp_Bili","name":"B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Bili.json"}
+  //  {"key":"csp_Bili","name":"B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Bili.json"}
    
 
   ],
