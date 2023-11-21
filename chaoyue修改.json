@@ -118,10 +118,10 @@
       "jar":"./lib/dj0.jar"
      
     },
-      { "key": "横版影院", "name": "量子短剧
-    ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ],
-    "jar":"./lib/dj0.jar"
-     }, 
+      //{ "key": "横版影院", "name": "量子短剧
+   // ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ],
+   // "jar":"./lib/dj0.jar"
+  //   }, 
    {
       "key": "88看球",
       "name": "球赛直播",
