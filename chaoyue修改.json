@@ -122,6 +122,17 @@
     ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ],
     "jar":"./lib/dj0.jar"
      }, 
+   {
+      "key": "88看球",
+      "name": "球赛直播",
+      "playerType": 1,
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/88kanqiu.js"
+    },
 
 
 {"key":"相声小品","name":"相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Blixs.json"},
