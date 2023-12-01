@@ -1,55 +1,168 @@
 {
-  "spider": "./jar/fan1019.jar",
+  "spider": "./jar/xyq.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "lives": [
+    {
+      "name": "live",
+      "url": "http://app.4kjidi.com/jiekou1/tv.txt",
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
-  {
-      "key": "豆豆",
-      "name": "家庭影院首页",
+{
+
+   "key": "豆豆",
+      "name": "豆瓣热播",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
-    },
+      "filterable": 0,
+   "jar":"./jar/fan1104.jar"},
     
     {
+      "key": "爱迪",
+      "name": "1080P站-1",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+ 
+  
+   
+  
+  {
+      "key": "49zy",
+      "name": "1080P站-2",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },
+ {
+            "key": "kuaikan",
+            "name": "1080P站-3",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+  
+   
+       {
+      "key": "csp_Nmys",
+      "name": "1080P站-4",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://fanty.run.goorm.site/ext/nmys.json",
+      "jar":"./jar/fan1104.jar"
+    },
+             
+        
+   {
       "key":"drpy_js_两个BT",
-      "name":"1080P站-A",
-      "type":3,"api":"./lib/drpy2.min.js",
+      "name":"1080P站-5",
+      
+      "type":3,
+       "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api":"./lib/drpy2.min.js",
       "ext":"./js/两个bt.js"
     },
-    {
-      "key": "lurenjia",
-      "name": "1080P站-B",
-			"type": 1,
-			"api": "http://dytt996.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
-     },
+    
+     
+      
+          {
+            "key": "Auete",
+            "name": "1080P站-6",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://haozhansou.com/",
+             "jar":"./jar/fan1104.jar"
+        },
+      
+       
+       
+    
     {
       "key": "zxzj",
-      "name": "1080P站-C",
+      "name": "1080P站-7",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
+      "ext": "https://www.zxzj.pro/",
+       "jar":"./jar/fan1104.jar"
     },
     {
       "key": "csp_Bttoo",
-      "name": "1080P站-D",
+      "name": "1080P站-8",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+       "jar":"./jar/fan1104.jar"
     },
+   
+  
     {
       "key": "app_轻简",
-      "name": "1080P站-E",
+      "name": "1080P站-9",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -59,51 +172,36 @@
         "动漫"
       ]
     },
-    {
-      "key": "csp_WoGG",
-      "name": "4KHDR站-A",
+
+  {
+      "key": "影探VIP",
+      "name": "1080P站-10",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关"
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
+
     {
-      "key": "PanSearch",
-      "name": "4KHDR站-B",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-   
-},
-{
-"key":"七夜",
-"name":"4KHDR站-C",
-"type":3,
-"api":"csp_Dovx",
-"searchable":1,
-"quickSearch":1,
-"changeable":0,
-"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-},
-{
-"key": "csp_search_Alips",
-"name": "4KHDR站-D",
-"type": 3,
-"api": "csp_PanSou",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"playerType": 1,
-"ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-},
-
-
- {
+			"key": "csp_WoGG",
+			"name": "4K资源站",
+			"type": 3,
+     "playerType": 1,
+			"api": "csp_WoGG",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关",
+      "jar":"./jar/fan1104.jar"
+      
+		
+    },
+     
+    
+ 
+    {
       "key": "PT",
       "name": "葡萄短剧",
       "type": 3,
@@ -132,75 +230,15 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./js/88kanqiu.js"
-    },
+    }
 
 
-{"key":"相声小品","name":"相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Blixs.json"},
-{"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/Blixq.json"},
-        {"key": "dr_兔小贝","name": "儿童早教","type": 3,"api": "http://frp.gerss.cn/e4a/app/js/lib/drpy2.min.js","ext": "http://frp.gerss.cn/e4a/app/js/js/兔小贝.js","searchable": 0,"quickSearch": 0,"changeable": 0},
-{"key":"少儿","name":"少儿课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"},
-{"key":"小学","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"},
-{"key":"初中","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
-{"key":"高中","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"}
-
+    
   ],
   
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2Zhc3RhZG1pbi5sdmRvdWkubmV0L3VwbG9hZHMvaXR2Ym94L3R2LnR4dA=="
-          ]
-        }
-      ]
-    }
-  ],
+ 
   "flags": [],
-  "parses": [
-    {
-      "name": "TA",
-      "type": 1,
-      "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
-    },
-    {
-      "name": "TB",
-      "type": 1,
-      "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=V1JNMfpVhruGmgbj5s&url="
-    },
-    {
-      "name": "TD",
-      "type": 1,
-      "url": "http://119.45.115.156:90/cache.php?url="
-    },
-    {
-      "name": "TC",
-      "type": 1,
-      "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
-    },
-    {
-      "name": "TBF",
-      "type": 1,
-      "url": "http://106.53.99.43:84/bf.php?url="
-    },
-    {
-      "name": "TLZ",
-      "type": 1,
-      "url": "http://106.53.99.43:84/lz.php?url="
-    },
-    {
-      "name": "TFF",
-      "type": 1,
-      "url": "http://106.53.99.43:84/ff.php?url="
-    },
-    {
-      "name": "T49",
-      "type": 1,
-      "url": "http://106.53.99.43:84/49.php?url="
-    }
-],
+  "parses": [],
   "ijk": [
     {
       "group": "软解码",
