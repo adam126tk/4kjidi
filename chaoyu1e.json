@@ -140,23 +140,13 @@
          
    
      
-      {
-      "key": "Czsapp",
-      "name": "1080P站-7",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"./jar/fan.txt"
-    },
+   
 
   
     
      {
       "key": "lurenjia",
-      "name": "1080P站-8",
+      "name": "1080P站-7",
 			"type": 1,
 			"api": "http://dytt996.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -166,7 +156,7 @@
      },
     {
       "key": "zxzj",
-      "name": "1080P站-9",
+      "name": "1080P站-8",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -177,7 +167,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "1080P站-10",
+      "name": "1080P站-9",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -187,7 +177,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "1080P站-11",
+      "name": "1080P站-10",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
