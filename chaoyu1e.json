@@ -186,20 +186,7 @@
 
 
 
-    {
-			"key": "csp_WoGG",
-			"name": "4K资源站-1",
-			"type": 3,
-     "playerType": 1,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关",
-      "jar":"./jar/fan1104.jar"
-      
-		
-    },
+   
      {
       "key": "玩偶",
       "name": "4K资源站-2",
