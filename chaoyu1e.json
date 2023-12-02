@@ -16,7 +16,7 @@
 {
 
    "key": "豆豆",
-      "name": "4K影院",
+      "name": "4K影院首页",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -157,7 +157,7 @@
     },
      {
       "key": "PT",
-      "name": "短剧",
+      "name": "在线短剧",
       "type": 3,
       "api": "csp_XBPQ",
       
@@ -182,7 +182,7 @@
     },
     {
       "key": "戏曲",
-      "name": "戏曲",
+      "name": "中国戏曲",
       "playerType": 1,
       "type": 3,
       "api": "csp_Bili",
@@ -240,7 +240,7 @@
     {
       "key": "csp_Bili",
       "playerType": 1,
-      "name": "B站",
+      "name": "哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
