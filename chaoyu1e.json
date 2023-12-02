@@ -134,6 +134,7 @@
     {
       "key": "UpYun",
       "name": "4K搜索-1",
+      "playerType":2,
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -146,6 +147,7 @@
     {
       "key": "PanSearch",
       "name": "4K搜索-2",
+      "playerType":2,
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
