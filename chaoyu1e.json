@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/xyq.jar",
+  "spider": "./jar/fan1104.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
@@ -23,18 +23,10 @@
       "quickSearch": 0,
       "filterable": 0,
    "jar":"./jar/fan1104.jar"},
-    {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar":"./jar/fan.txt"
-    },
-    
+
+
+
+
     {
       "key": "爱迪",
       "name": "1080P站-1",
@@ -46,7 +38,7 @@
       "playerType": 2,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
- 
+
   
    
   
@@ -119,16 +111,40 @@
     },
              
         
-   {
-      "key":"drpy_js_两个BT",
-      "name":"1080P站-5",
-      
-      "type":3,
-       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/两个bt.js"
+    {
+            "key": "索尼",
+            "name": "1080P站-5",
+            "type": 1,
+            "playerType": 2,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "港剧",
+            "台剧",
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    "日韩综艺",
+	    "港台综艺",
+	    "欧美综艺",
+	     "足球",
+	    "影视解说",
+            "国产动漫"
+          ]
     },
     
      
@@ -147,10 +163,37 @@
       
        
        
+      
+         
+   
+     
+      {
+      "key": "Czsapp",
+      "name": "1080P站-7",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"./jar/fan.txt"
+    },
+
+  
     
+     {
+      "key": "lurenjia",
+      "name": "1080P站-8",
+			"type": 1,
+			"api": "http://dytt996.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
+     },
     {
       "key": "zxzj",
-      "name": "1080P站-7",
+      "name": "1080P站-9",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -161,7 +204,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "1080P站-8",
+      "name": "1080P站-10",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -169,11 +212,9 @@
       "changeable": 1,
        "jar":"./jar/fan1104.jar"
     },
-   
-  
     {
       "key": "app_轻简",
-      "name": "1080P站-9",
+      "name": "1080P站-11",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -183,27 +224,25 @@
         "动漫"
       ]
     },
-
-
+  
+    
+ {
+      "key": "玩偶哥哥",
+      "name": "4K资源站-1",
+      "playerType":2,
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar":"./jar/fan.txt"
+    },
 
    
-     {
-      "key": "玩偶",
-      "name": "4K资源站-2",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://tvbox.cainisi.cf/json/wogg.json"
-        
-      },
-      "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
-     },
       {
       "key": "影探VIP",
-      "name": "4K资源站-3",
+      "name": "4K资源站-2",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -247,39 +286,7 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
       "jar":"./jar/fan1104.jar"
 
-    },
-    {
-      "key": "PT",
-      "name": "葡萄短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      
-      "ext": {
-        "数组": "class=\"stui-vodlist__box&&</li",
-        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-        
-      },
-      "jar":"./lib/dj0.jar"
-     
-    },
-      //{ "key": "横版影院", "name": "量子短剧
-   // ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ],
-   // "jar":"./lib/dj0.jar"
-  //   }, 
-   {
-      "key": "88看球",
-      "name": "球赛直播",
-      "playerType": 1,
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./js/88kanqiu.js"
     }
-
-
     
   ],
   
