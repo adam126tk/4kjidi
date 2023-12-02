@@ -42,54 +42,9 @@
   
    
   
-  {
-      "key": "49zy",
-      "name": "1080P站-2",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
-      ]
-    },
  {
             "key": "kuaikan",
-            "name": "1080P站-3",
+            "name": "1080P站-2",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -101,7 +56,7 @@
    
        {
       "key": "csp_Nmys",
-      "name": "1080P站-4",
+      "name": "1080P站-3",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -114,7 +69,7 @@
         
     {
             "key": "索尼",
-            "name": "1080P站-5",
+            "name": "1080P站-4",
             "type": 1,
             "playerType": 2,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
@@ -150,82 +105,6 @@
     
      
       
-          {
-            "key": "Auete",
-            "name": "1080P站-6",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://haozhansou.com/",
-             "jar":"./jar/fan1104.jar"
-        },
-      
-       
-       
-      
-         
-   
-     
-      {
-      "key": "Czsapp",
-      "name": "1080P站-7",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"./jar/fan.txt"
-    },
-
-  
-    
-     {
-      "key": "lurenjia",
-      "name": "1080P站-8",
-			"type": 1,
-			"api": "http://dytt996.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
-     },
-    {
-      "key": "zxzj",
-      "name": "1080P站-9",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/",
-       "jar":"./jar/fan1104.jar"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "1080P站-10",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-       "jar":"./jar/fan1104.jar"
-    },
-    {
-      "key": "app_轻简",
-      "name": "1080P站-11",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-  
     
  {
       "key": "玩偶哥哥",
@@ -276,18 +155,112 @@
       "jar":"./jar/fan1104.jar"
 
     },
-    {
-      "key": "七夜",
-      "name": "4K搜索-3",
+     {
+      "key": "PT",
+      "name": "短剧",
       "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-      "jar":"./jar/fan1104.jar"
-
+      "api": "csp_XBPQ",
+      
+      "ext": {
+        "数组": "class=\"stui-vodlist__box&&</li",
+        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+        
+      },
+      "jar":"./jar/dj0.jar"
+   },
+    {
+      "key": "相声小品",
+      "name": "相声小品",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/Blixs.json"
+    },
+    {
+      "key": "戏曲",
+      "name": "戏曲",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/Blixq.json"
+    },
+    {"key":"dr_兔小贝","name":"儿童启蒙","type":3,"api":"https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+   
+    {
+      "key": "少儿",
+      "name": "少儿教育",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/少儿教育.json"
+    },
+    {
+      "key": "小学",
+      "name": "小学课堂",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/小学课堂.json"
+    },
+    {
+      "key": "初中",
+      "name": "初中课堂",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/初中课堂.json"
+    },
+    {
+      "key": "高中",
+      "name": "高中课堂",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/高中课堂.json"
+    },
+    {
+      "key": "csp_Bili",
+      "playerType": 1,
+      "name": "B站",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/jsonN/Bili.json"
+    },
+    {
+      "key": "88看球",
+      "name": "球赛直播",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://jihulab.com/4kjidi/4kjidi1/-/raw/main/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/88kanqiu.js"
     }
+
+    
     
   ],
   
