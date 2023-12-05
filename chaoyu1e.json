@@ -67,41 +67,19 @@
     },
              
         
-    {
-            "key": "索尼",
-            "name": "1080P站-4",
-            "type": 1,
-            "playerType": 2,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "国产剧",
-            "欧美剧",
-            "韩剧",
-            "日剧",
-            "港剧",
-            "台剧",
-	     "泰剧",
-	     "记录片",
-            "海外剧",
-            "大陆综艺",
-	    "日韩综艺",
-	    "港台综艺",
-	    "欧美综艺",
-	     "足球",
-	    "影视解说",
-            "国产动漫"
-          ]
+   {
+      "key":"drpy_js_两个BT",
+      "name":"1080P站-4",
+      
+      "type":3,
+       "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api":"https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext":"./js/两个bt.js",
+      "jar":"./jar/fan1019.jar"
     },
+
     
      
       
