@@ -54,17 +54,19 @@
         },
   
    
-       {
-      "key": "csp_Nmys",
-      "name": "1080P站-3",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
+      {
+      "key":"drpy_js_两个BT",
+      "name":"1080P站-3",
+      
+      "type":3,
+       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://fanty.run.goorm.site/ext/nmys.json",
-      "jar":"./jar/fan1104.jar"
+      "api":"https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext":"./js/两个bt.js",
+      "jar":"./jar/fan1019.jar"
     },
+
              
         
     {
