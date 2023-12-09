@@ -252,8 +252,71 @@
       "playerType": 2,
       "ext": "http://4kjidi.com/api.php/app/",
       "jar":"./jar/xyq.jar"
+    },
+     {
+      "key": "幼儿教育",
+      "name": "幼小｜衔接",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩幼小.json",
+      "jar":"./jar/xyq.jar"
+    },
+    {
+      "key": "哔哩小学",
+      "name": "小学｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩小学.json",
+      "jar":"./jar/xyq.jar"
+    },
+    {
+      "key": "哔哩初中",
+      "name": "初中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩初中.json",
+      "jar":"./jar/xyq.jar"
+    },
+    {
+      "key": "哔哩高中",
+      "name": "高中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩高中.json",
+      "jar":"./jar/xyq.jar"
+    },
+ {
+      "key": "戏曲杂苑",
+      "name": "戏曲｜杂苑",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩戏曲.json",
+       {
+      "key": "戏曲杂苑",
+      "name": "🅱戏曲｜杂苑",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩戏曲.json"
     }
-
+    }
    
   ],
   "parses": [
