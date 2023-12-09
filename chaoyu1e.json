@@ -308,7 +308,19 @@
       "ext": "./lib/哔哩戏曲.json",
       "jar":"./jar/fan1104.jar"
  },
- 
+  {
+      "key": "88看球",
+      "name": "球赛｜直播",
+      "playerType": 1,
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/88kanqiu.js",
+      "jar":"./jar/fan1104.jar"
+    }
+
     
    
   ],
