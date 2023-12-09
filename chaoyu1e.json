@@ -273,7 +273,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩小学.json",
-      "jar":"./jar/xyq.jar"
+       "jar":"./jar/fan1104.jar"
     },
     {
       "key": "哔哩初中",
@@ -284,7 +284,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩初中.json",
-      "jar":"./jar/xyq.jar"
+       "jar":"./jar/fan1104.jar"
     },
     {
       "key": "哔哩高中",
@@ -295,7 +295,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩高中.json",
-      "jar":"./jar/xyq.jar"
+       "jar":"./jar/fan1104.jar"
     },
  {
       "key": "戏曲杂苑",
@@ -306,8 +306,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩戏曲.json",
-      "jar":"./jar/xyq.jar"
- }
+      "jar":"./jar/fan1104.jar"
+ },
+ 
     
    
   ],
