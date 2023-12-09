@@ -19,7 +19,7 @@
 {
 
    "key": "豆豆",
-      "name": "4K基地首页",
+      "name": "4K影院首页",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -27,6 +27,40 @@
       "filterable": 0,
        "jar":"./jar/fan1104.jar"
       },
+       {
+      "key": "wanou",
+      "name": "4K资源站-1",
+      "playerType":2,
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar":"./jar/moyu1204.jar"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "4K资源站-2",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1f58870cbfc2419c6fdd6c8a071bd800"
+    },
+       {
+      "key": "影探VIP",
+      "name": "4K资源站-3",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
+      "jar":"./jar/moyu1204.jar"
+    },
     {
       "key": "csp_骚火",
       "name": "1080P站-1",
@@ -136,6 +170,16 @@
       "filterable": 1,
       "ext": "./lib/米爱影视.json"
     },
+
+     {
+      "key": "bttwo",
+      "name": "1080P站-11",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/两个BT.js",
+      "jar":"./jar/fan1104.jar"
+    },
      //{
     //  "key": "玩偶哥哥",
     //  "name": "4K资源站-1",
@@ -148,40 +192,7 @@
    //   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$关",
       
   //  },
- {
-      "key": "wanou",
-      "name": "4K资源站-1",
-      "playerType":2,
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar":"./jar/moyu1204.jar"
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "4K资源站-2",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1f58870cbfc2419c6fdd6c8a071bd800"
-    },
-       {
-      "key": "影探VIP",
-      "name": "4K资源站-3",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-      "jar":"./jar/moyu1204.jar"
-    },
+
      
    
   
