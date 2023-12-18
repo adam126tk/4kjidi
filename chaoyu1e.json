@@ -79,19 +79,10 @@
       "filterable": 1,
       "ext": "./lib/农民影视.json"
     },
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "1080P站-3",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/奇优影视.json"
-    },
+    
     {
       "key": "csp_疯狗",
-      "name": "1080P站-4",
+      "name": "1080P站-3",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -103,7 +94,7 @@
   
     {
       "key": "csp_热播",
-      "name": "1080P站-5",
+      "name": "1080P站-4",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -114,7 +105,7 @@
   
     {
       "key": "csp_不卡",
-      "name": "1080P站-6",
+      "name": "1080P站-5",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -124,7 +115,7 @@
     },
     {
       "key": "csp_午舞",
-      "name": "1080P站-7",
+      "name": "1080P站-6",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -135,7 +126,7 @@
    
     {
       "key": "csp_xBPQ_视觉",
-      "name": "1080P站-8",
+      "name": "1080P站-7",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -148,7 +139,7 @@
   
     {
       "key": "csp_土豪",
-      "name": "1080P站-9",
+      "name": "1080P站-8",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -159,7 +150,7 @@
     
     {
       "key": "csp_米爱",
-      "name": "1080P站-10",
+      "name": "1080P站-9",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
