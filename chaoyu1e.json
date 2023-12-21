@@ -172,7 +172,7 @@
    
     {
       "key": "csp_短剧",
-      "name": "网络短剧-1",
+      "name": "网络｜短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -180,18 +180,7 @@
       "filterable": 1,
       "ext": "./lib/短剧网.json"
     },
-      {
-      "key": "短剧",
-      "name": "网络短剧-2",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "http://4kjidi.com/api.php/app/",
-      "jar":"./jar/xyq.jar"
-    },
+  
      {
       "key": "幼儿教育",
       "name": "幼小｜衔接",
