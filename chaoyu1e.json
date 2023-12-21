@@ -178,7 +178,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/短剧网.json"
+      "ext": "./lib/短剧网.json",
+      "jar":"./jar/HeChengChaXiu.jar"
     },
   
      {
