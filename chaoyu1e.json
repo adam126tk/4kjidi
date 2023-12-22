@@ -27,7 +27,17 @@
       "filterable": 0,
        "jar":"./jar/fan1104.jar"
       },
-     
+      {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃已修复断流",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;58adbd51a4bbed437f442e4e9a4c85c2"
+    },
         {
       "key": "wanou",
       "name": "4K资源站-1",
