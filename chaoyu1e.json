@@ -53,19 +53,12 @@
      
       "jar":"./jar/fan.txt"
     },
-      {
-      "key": "影探",
-      "name": "4K资源站-3",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/yt.js",
-      "jar":"./jar/xyq.jar"
-    },
+    
 
  
      {
       "key": "初见表哥",
-      "name": "4K资源站-4",
+      "name": "4K资源站-3",
       "type": 3,
       "playerType":2,
       "api": "csp_XBPQ",
