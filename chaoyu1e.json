@@ -28,19 +28,7 @@
        "jar":"./jar/fan1104.jar"
       },
   
-        {
-      "key": "wanou",
-      "name": "4K资源站-1",
-      "playerType":2,
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar":"./jar/fan.txt"
-      
-    },
+       
     {
       "key": "玩偶哥哥",
       "name": "4K资源站-2",
@@ -50,7 +38,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-     
       "jar":"./jar/fan.txt"
     },
     
@@ -118,48 +105,7 @@
     
    
   
-    {
-      "key": "UpYun",
-      "name": "4K搜索-1",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-       "jar":"./jar/fan1104.jar"
-    
-
-    },
-     
-  
-    {
-      "key": "PanSearch",
-      "name": "4K搜索-2",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-       "jar":"./jar/fan1104.jar"
-      
-
-    },
-    {
-      "key": "七夜",
-      "name": "4K搜索-3",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-       "jar":"./jar/fan1104.jar"
-      
-
-    },
-
+   
     
    
     {
