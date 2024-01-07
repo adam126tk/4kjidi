@@ -41,18 +41,7 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"
       //"jar":"./jar/fan1104.jar"
     },
-      {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "4K资源站-2",
-      "api": "csp_Panda",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://dt.xn--yety82d.love/玩偶哥哥.json",
-      "jar":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar"
-    },
+    
 
  
     
