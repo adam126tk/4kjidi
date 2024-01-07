@@ -29,16 +29,17 @@
       },
   
        
-    {
-      "key": "玩偶哥哥",
+      {
+      "key": "玩偶哥哥1",
       "name": "4K资源站-1",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar":"./jar/fty.jar"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt"
+      //"jar":"./jar/fan1104.jar"
     },
       {
       "key": "csp_Panda_玩偶哥哥",
@@ -54,19 +55,7 @@
     },
 
  
-     {
-      "key": "玩偶",
-      "name": "💖玩偶｜4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "./lib/wogg.json"
-      },
-      "jar":"./jar/jar.php"
-    },
+    
    
 
      {
@@ -105,7 +94,7 @@
       "name": "网络短剧-1",
       "type": 3,
       "api": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/短剧.json",
