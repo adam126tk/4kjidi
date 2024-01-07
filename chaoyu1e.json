@@ -54,7 +54,19 @@
     },
 
  
-    
+     {
+      "key": "玩偶",
+      "name": "💖玩偶｜4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "./lib/wogg.json"
+      },
+      "jar":"./jar/ali.jar"
+    },
    
 
      {
