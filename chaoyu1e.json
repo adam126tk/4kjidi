@@ -65,7 +65,7 @@
         "token": "影視天下第一",
         "filter": "./lib/wogg.json"
       },
-      "jar":"./jar/jar.php?id=ali"
+      "jar":"./jar/jar.php"
     },
    
 
