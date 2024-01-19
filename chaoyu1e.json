@@ -50,8 +50,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "http://vpp.lyyytv.cn/api.php/app/",
-      "jar":"./jar/fan1104.jar"
+   "ext": "http://vpp.lyyytv.cn/api.php/app/"
 },
   
     
