@@ -210,9 +210,52 @@
         "ratio": 1
       },
       "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/310直播.js"
+    },
+   
+   {
+      "key": "UpYun",
+      "name": "4K搜索-1",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+       "jar":"./jar/fan1104.jar"
+    
+
+    },
+     
+  
+    {
+      "key": "PanSearch",
+      "name": "4K搜索-2",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+       "jar":"./jar/fan1104.jar"
+      
+
+    },
+    
+      
+       
+    {
+      "key": "七夜",
+      "name": "4K搜索-3",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+       "jar":"./jar/fan1104.jar"
+      
+
     }
-   
-   
      
 
   
