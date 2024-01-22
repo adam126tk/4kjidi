@@ -54,19 +54,17 @@
 },
   
     
-   
-
      {
-      "key": "嘉良",
+      "key": "996影院",
       "name": "高清资源-1",
       "type": 3,
-      "api": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
+      "api": "csp_Cs1369",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/嘉良影视.js",
-      "jar": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"
+      "changeable": 1,
+      "jar":"./jar/custom_spider.jar"
     },
+
+    
     
       {
       "key": "鹏翔",
@@ -80,9 +78,30 @@
       "jar": "./jar/spider.jar"
     },
      
-   
+     {
+      "key": "奈飞中文",
+      "name": "高清资源-3",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/nfzw.json",
+      "jar": "http://qrh.yimkj.cn/ym/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"
+    },
     
-   
+   {
+      "key": "南坊",
+      "name": "高清资源-4",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "jar": "./jar/fan1104.jar",
+      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+
+    },
   
    
     
@@ -91,7 +110,7 @@
       "key": "短剧66",
       "name": "网络短剧-1",
       "type": 3,
-      "api": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
+      "api": "./lib/drpy.min.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -100,6 +119,16 @@
     },
   
 
+      {
+      "key": "meowtv_rxdj",
+      "name": "网络短剧-2",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6822/api.php/app/"
+    },
   
   
      {
