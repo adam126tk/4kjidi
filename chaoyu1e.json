@@ -70,7 +70,7 @@
       "key": "鹏翔",
       "name": "高清资源-2",
       "type": 3,
-      "api": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
+      "api": "./lib/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
