@@ -45,15 +45,19 @@
     
   
     
+ 
      {
-      "key": "996影院",
-      "name": "优酷",
+      "key": "奈飞中文",
+      "name": "爱奇艺",
       "type": 3,
-      "api": "csp_Cs1369",
+      "api": "csp_XYQHiker",
       "searchable": 1,
-      "changeable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/nfzw.json",
+      "jar": "http://qrh.yimkj.cn/ym/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"
     },
+    
 
     
     
@@ -69,18 +73,6 @@
       "jar": "./jar/spider.jar"
     },
      
-     {
-      "key": "奈飞中文",
-      "name": "爱奇艺",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://qrh.yimkj.cn/ym/lib/nfzw.json",
-      "jar": "http://qrh.yimkj.cn/ym/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"
-    },
-    
    {
       "key": "南坊",
       "name": "搜狐",
